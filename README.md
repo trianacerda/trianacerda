@@ -3,10 +3,12 @@ triana = {
 
 Full Stack Software Developer: true ,
 
-Creative outlets: 💻 🌺 🪴 📝 🛠 ,
+Location: 'Bend, OR 🇺🇸',
 
-Fur baby mother: 🐶 🐶 🐱 🐱 , 
+Creative outlets: 👩🏽‍💻  🌺  🪴  📝  🛠  🪑  🪡  🏕 ,
+
+Fur babies: true === 🐶 🐶 🐱 🐱 , 
 
 Fun fact: 'I am from an island🍍 ',
 
-}
+};
