@@ -1,7 +1,7 @@
  
 triana = {
 
-Full Stack Software Developer: true ,
+Full Stack Software Developer: true ✅ ,
 
 Location: 'Bend, OR 🇺🇸 ',
 
