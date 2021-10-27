@@ -9,6 +9,6 @@ Creative outlets: 👩🏽‍💻  🌺  🪴  📝  🛠  🪑  🪡  📸 ,
 
 Fur babies: true === 🐶 🐶 🐱 🐱 , 
 
-Fun fact: 'I am from an island🍍 ',
+Fun facts: 'I am from an island🍍 ', 'I don't like hot drinks🧋', 'Christmas lights are the best🎄',
 
 };
