@@ -1,15 +1,12 @@
-import logo from "./triana.svg";
-import "./App.css";
+import "./styles/App.css";
+import Header from "./Components/Header";
+import Body from "./Components/Body";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Triana's Portfolio Page</p>
-        <button> CLick Here! </button>
-        <button> 2nd Button! </button>
-      </header>
+      <Header />
+      <Body />
     </div>
   );
 }
