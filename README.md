@@ -8,6 +8,6 @@ Creative outlets: 👩🏽‍💻 🌺 🪴 📝 🛠 🪑 🪡 📸 ,
 
 Fur babies: true === 🐶 🐶 🐱 🐱 ,
 
-Fun facts: 'I am from an island🍍 ', 'I don't like hot drinks🧋', 'Christmas lights are the best🎄',
+Fun facts about me: 'I am from an island🍍 ', 'I don't like hot drinks🧋', 'Christmas lights overload my happy feelings🎄',
 
 };
